@@ -1,0 +1,2 @@
+# Facebook live sellers in Thailand using KMeans
+ In this project, I implement K-Means clustering with Python and Scikit-Learn. As mentioned earlier, K-Means clustering is used to find intrinsic groups within the unlabelled dataset and draw inferences from them. I have used Facebook Live Sellers in Thailand dataset for this project. I implement K-Means clustering to find intrinsic groups within this dataset that display the same status_type behaviour.
